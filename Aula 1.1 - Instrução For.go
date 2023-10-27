@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
     
-    i := 1
-    for 1 <= 1- {
-        fmt.println(i)
-        i = i + i
+  
+    for i := 1; i <= 10; i++ {
+      fmt.Println(i)  
     }
 }
+
